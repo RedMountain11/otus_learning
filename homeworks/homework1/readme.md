@@ -10,4 +10,6 @@
 ## 2. Задача
 
 
-![](homeworks/homework1/config'n'lab/firs lesson.pkt "Ссылка на лабораторную")
+## 3. Решение
+
+[Ссылка на лабораторную](./config'n'lab/)
