@@ -34,7 +34,7 @@ I. Создание сети и проверка настроек коммута
 6. Изучите IP-свойства интерфейса SVI сети VLAN 1:
    + Какие выходные данные вы видите? Ответ:
        - Ответ:
-Vlan1 is up, line protocol is up
+```Vlan1 is up, line protocol is up
 Hardware is CPU Interface, address is 0001.c700.4c0b (bia 0001.c700.4c0b)
 Internet address is 192.168.1.2/24
 MTU 1500 bytes, BW 100000 Kbit, DLY 1000000 usec,
@@ -55,6 +55,7 @@ Received 0 broadcasts (0 IP multicast)
 563859 packets output, 0 bytes, 0 underruns
 0 output errors, 23 interface resets
 0 output buffer failures, 0 output buffers swapped out
+```
    + Под управлением какой версии ОС Cisco IOS работает коммутатор? Ответ: Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE4, RELEASE SOFTWARE (fc1)
    + Как называется файл образа системы? Ответ:  C2960-LANBASEK9-M
 7. Изучите свойства по умолчанию интерфейса FastEthernet, который используется компьютером PC-A.
