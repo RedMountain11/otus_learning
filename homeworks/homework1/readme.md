@@ -185,7 +185,26 @@ line vty 5 15
 end
 ```
 
-6. Протестируйте сквозное соединение, отправив эхо-запрос. Выполнение: выполнено, работает.
-7. Проверьте удаленное управление коммутатором S1. Выполнение: выполнено, работает.
+6. Протестируйте сквозное соединение, отправив эхо-запрос. Выполнение: выполнено, работает:
+```
+   - Cisco Packet Tracer PC Command Line 1.0
+C:\>ping 192.168.1.2
+
+Pinging 192.168.1.2 with 32 bytes of data:
+
+Request timed out.
+Reply from 192.168.1.2: bytes=32 time<1ms TTL=255
+Reply from 192.168.1.2: bytes=32 time<1ms TTL=255
+Reply from 192.168.1.2: bytes=32 time<1ms TTL=255
+
+Ping statistics for 192.168.1.2:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+C:\>
+```
+8. Проверьте удаленное управление коммутатором S1. Выполнение: выполнено, работает.
+![](https://github.com/RedMountain11/otus_learning/blob/c27b0a3f2f34e3ecd349e798e98d4d3a79b88710/homeworks/JPG/%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%20%D0%BF%D0%BE%20telnet.jpg)
    
 [Ссылка на лабораторную](./config'n'lab/)
