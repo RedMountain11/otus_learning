@@ -1,0 +1,8 @@
+![](https://github.com/RedMountain11/otus_learning/blob/main/homeworks/homework3/PNG/IPv4%20постановка%20задачи.jpg)
+![](https://github.com/RedMountain11/otus_learning/blob/main/homeworks/homework3/PNG/Проблема%201.jpg)
+![](https://github.com/RedMountain11/otus_learning/blob/main/homeworks/homework3/PNG/Проблема%202.jpg)
+![](https://github.com/RedMountain11/otus_learning/blob/main/homeworks/homework3/PNG/Проблема%203.jpg)
+![](https://github.com/RedMountain11/otus_learning/blob/main/homeworks/homework3/PNG/Проблема%204.jpg)
+![](https://github.com/RedMountain11/otus_learning/blob/main/homeworks/homework3/PNG/Проблема%205.jpg)
+![](https://github.com/RedMountain11/otus_learning/blob/main/homeworks/homework3/PNG/Проблема%206.jpg)
+![](https://github.com/RedMountain11/otus_learning/blob/main/homeworks/homework3/PNG/IPv4%20Ответ.jpg)
